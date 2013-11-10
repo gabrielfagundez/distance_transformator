@@ -1,28 +1,6 @@
-== README
+== Introducción
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta aplicación web, transforma un archivo de latitudes y longitudes, en un archivo matriz de distancias tomado de la API
+de Google. Su objetivo es brindar información importante para casos de prueba de grandes dimensiones para el Algoritmo
+Evolutivo que se corre en la web MePaseaste.UY, próximamente activa.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
