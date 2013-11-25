@@ -5,7 +5,7 @@ class HomeController < ApplicationController
     # Calculamos las distancias en background
     DistanceWorker.perform_async
 
-    render json: { outcome: 'PASS', message: 'Calculando las distancias en segundo plano, por favor, espere a que todo esté listo.' }
+    render json: { outcome: 'PASS', message: 'Calculando las distancias en segundo plano, por favor, espere a que todo este listo..' }
   end
 
 end

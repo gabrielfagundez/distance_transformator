@@ -7,6 +7,8 @@ gem 'sqlite3'
 # Background processing
 gem 'sidekiq'
 
+gem 'rest-client'
+
 # Styling
 gem 'haml'
 gem 'sass-rails', '~> 4.0.0'
