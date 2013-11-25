@@ -16,9 +16,15 @@ class DistanceWorker
   DISTANCES = []
 
   def perform
+    
+    # Creamos el archivo de logs
+    dis_log ||= Logger.new("#{Rails.root}/log/distances_log.txt")
 
-    Rails.logger.debug 'Iniciando proceso en segundo plano..'
+    # Contador de iteraciones
+    contador = 1
 
+    dis_log.info 'Iniciando proceso en segundo plano..'
+    dis_log.info 'Borrando archivo de resultados previo..'
     # Borramos ejecucion previa del algoritmo si existe
     begin
       FileUtils.rm(DISTANCES_FILE)
@@ -31,32 +37,29 @@ class DistanceWorker
       sanitized_line = line.split("\n")[0]
 
       # Imprimimos un asterisco por linea en la consola
-      Rails.logger.debug '*'
+      dis_log.info "Linea #{contador} procesada.."
 
       # Obtenemos los parametros
       parametros = "origins=#{ sanitized_line }&destinations=#{ DISTANCES.join('|') }"
-
-
-      Rails.logger.debug '----------------------'
-      Rails.logger.debug (BASE_URI + PATH_URI + parametros + END_URI)
 
       unless DISTANCES.empty?
 
         # Realizamos la consulta
         http_response = RestClient.get BASE_URI + PATH_URI + parametros + END_URI
 
-
-        Rails.logger.debug http_response.body
-        Rails.logger.debug '----------------------'
+        dis_log.info http_response.body.to_s
       end
 
       # Guardamos la linea
       DISTANCES.push(sanitized_line)
 
+      # Actualizamos el contador
+      contador = contador + 1
+
     end
 
     # Imprimimos el final
-    Rails.logger.debug 'Se ha finalizado el proceso en segundo plano..'
+    dis_log.info 'Se ha finalizado el proceso en segundo plano..'
 
   end
 

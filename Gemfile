@@ -7,6 +7,7 @@ gem 'sqlite3'
 # Background processing
 gem 'sidekiq'
 
+# Requests
 gem 'rest-client'
 
 # Styling
