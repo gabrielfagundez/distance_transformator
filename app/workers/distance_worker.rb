@@ -45,7 +45,7 @@ class DistanceWorker
       unless DISTANCES.empty?
 
         # Realizamos la consulta
-        http_response = RestClient.get BASE_URI + PATH_URI + parametros + END_URI
+        http_response = HTTParty.get(BASE_URI + PATH_URI + parametros + END_URI)
 
         dis_log.info http_response.body.to_s
       end

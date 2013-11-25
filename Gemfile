@@ -8,7 +8,7 @@ gem 'sqlite3'
 gem 'sidekiq'
 
 # Requests
-gem 'rest-client'
+gem 'httparty'
 
 # Styling
 gem 'haml'
