@@ -1,14 +1,191 @@
-I, [2013-11-25T20:06:29.458749 #29869]  INFO -- : Iniciando proceso en segundo plano..
-I, [2013-11-25T20:06:29.458833 #29869]  INFO -- : Borrando archivo de resultados previo..
-I, [2013-11-25T20:06:29.459338 #29869]  INFO -- : Linea 1 procesada..
-I, [2013-11-25T20:06:29.459404 #29869]  INFO -- : Linea 2 procesada..
-I, [2013-11-25T20:06:32.789824 #29869]  INFO -- : Linea 3 procesada..
-I, [2013-11-25T20:06:34.367540 #29869]  INFO -- : Linea 4 procesada..
-I, [2013-11-25T20:06:36.025007 #29869]  INFO -- : Linea 5 procesada..
-I, [2013-11-25T20:06:38.517955 #29869]  INFO -- : Linea 6 procesada..
-I, [2013-11-25T20:06:40.566163 #29869]  INFO -- : Linea 7 procesada..
-I, [2013-11-25T20:06:42.670279 #29869]  INFO -- : Linea 8 procesada..
-I, [2013-11-25T20:06:44.920783 #29869]  INFO -- : Linea 9 procesada..
-I, [2013-11-25T20:06:48.477755 #29869]  INFO -- : Linea 10 procesada..
-I, [2013-11-25T20:06:52.097013 #29869]  INFO -- : Linea 11 procesada..
-I, [2013-11-25T20:06:54.629371 #29869]  INFO -- : Se ha finalizado el proceso en segundo plano..
+I, [2013-11-25T20:41:14.348063 #30518]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-11-25T20:41:14.348313 #30518]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-11-25T20:41:14.349039 #30518]  INFO -- : Procesando linea 1..
+I, [2013-11-25T20:41:14.349121 #30518]  INFO -- : Linea 2 procesada..
+I, [2013-11-25T20:41:14.349169 #30518]  INFO -- : Procesando linea 2..
+I, [2013-11-25T20:41:14.776496 #30518]  INFO -- : Linea 3 procesada..
+I, [2013-11-25T20:41:14.776616 #30518]  INFO -- : Procesando linea 3..
+I, [2013-11-25T20:41:15.198697 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:15.198822 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:15.198881 #30518]  INFO -- : Linea 4 procesada..
+I, [2013-11-25T20:41:15.198940 #30518]  INFO -- : Procesando linea 4..
+I, [2013-11-25T20:41:15.617978 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:15.618088 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:15.618128 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:15.618162 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
+I, [2013-11-25T20:41:15.618192 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:15.618224 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:15.618256 #30518]  INFO -- : Linea 5 procesada..
+I, [2013-11-25T20:41:15.618288 #30518]  INFO -- : Procesando linea 5..
+I, [2013-11-25T20:41:16.114862 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.115017 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.115095 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.115159 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
+I, [2013-11-25T20:41:16.115222 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.115278 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.115330 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.115383 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.115429 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.115475 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.115523 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.115574 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.115629 #30518]  INFO -- : Linea 6 procesada..
+I, [2013-11-25T20:41:16.115683 #30518]  INFO -- : Procesando linea 6..
+I, [2013-11-25T20:41:16.616096 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.616289 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.616359 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.616432 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
+I, [2013-11-25T20:41:16.616479 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.616523 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.616564 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.616606 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.616644 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.616687 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.616724 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.616800 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.616848 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.616891 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.616929 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.616969 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.617005 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.617045 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.617083 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:16.617123 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:16.617168 #30518]  INFO -- : Linea 7 procesada..
+I, [2013-11-25T20:41:16.617212 #30518]  INFO -- : Procesando linea 7..
+I, [2013-11-25T20:41:17.065178 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065307 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065366 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065399 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
+I, [2013-11-25T20:41:17.065428 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065458 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065487 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065517 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065543 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065573 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065599 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065628 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065655 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065683 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065709 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065737 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065763 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065790 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065814 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065842 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065868 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065897 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065922 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.065951 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.065977 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.066005 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.066039 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.066090 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.066148 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.066194 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.066244 #30518]  INFO -- : Linea 8 procesada..
+I, [2013-11-25T20:41:17.066305 #30518]  INFO -- : Procesando linea 8..
+I, [2013-11-25T20:41:17.779935 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780058 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780117 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780165 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
+I, [2013-11-25T20:41:17.780207 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780249 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780290 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780331 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780374 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780416 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780453 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780493 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780544 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780571 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780597 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780630 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780655 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780684 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780709 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780737 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780764 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780828 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780864 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780904 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.780940 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.780979 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.781016 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.781061 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.781097 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.781137 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.781175 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.781216 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.781252 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.781297 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.781334 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.781373 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.781409 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.781448 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.781484 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.781558 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.781608 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:17.781649 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:17.781694 #30518]  INFO -- : Linea 9 procesada..
+I, [2013-11-25T20:41:17.781738 #30518]  INFO -- : Procesando linea 9..
+I, [2013-11-25T20:41:18.497847 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.497940 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.497979 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498016 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
+I, [2013-11-25T20:41:18.498045 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498075 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498103 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498132 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498158 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498190 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498216 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498245 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498271 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498299 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498325 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498356 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498383 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498411 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498437 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498464 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498491 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498523 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498549 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498577 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498602 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498629 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498654 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498684 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498714 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498743 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498769 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498796 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498821 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498849 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498877 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498905 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.498929 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.498981 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499011 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.499039 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499068 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.499096 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499123 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.499151 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499176 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.499203 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499228 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.499259 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499285 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.499313 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499339 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.499367 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499391 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.499423 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499448 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
+I, [2013-11-25T20:41:18.499476 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
+I, [2013-11-25T20:41:18.499505 #30518]  INFO -- : Linea 10 procesada..
+I, [2013-11-25T20:41:18.499536 #30518]  INFO -- : Procesando linea 10..
+I, [2013-11-25T20:41:19.028323 #30518]  INFO -- : Ha ocurrido un error en la consulta:
+I, [2013-11-25T20:41:19.028454 #30518]  INFO -- : {"destination_addresses"=>[], "error_message"=>"You have exceeded your rate-limit for this API.", "origin_addresses"=>[], "rows"=>[], "status"=>"OVER_QUERY_LIMIT"}
