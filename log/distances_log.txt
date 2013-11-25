@@ -1,0 +1,14 @@
+I, [2013-11-25T20:06:29.458749 #29869]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-11-25T20:06:29.458833 #29869]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-11-25T20:06:29.459338 #29869]  INFO -- : Linea 1 procesada..
+I, [2013-11-25T20:06:29.459404 #29869]  INFO -- : Linea 2 procesada..
+I, [2013-11-25T20:06:32.789824 #29869]  INFO -- : Linea 3 procesada..
+I, [2013-11-25T20:06:34.367540 #29869]  INFO -- : Linea 4 procesada..
+I, [2013-11-25T20:06:36.025007 #29869]  INFO -- : Linea 5 procesada..
+I, [2013-11-25T20:06:38.517955 #29869]  INFO -- : Linea 6 procesada..
+I, [2013-11-25T20:06:40.566163 #29869]  INFO -- : Linea 7 procesada..
+I, [2013-11-25T20:06:42.670279 #29869]  INFO -- : Linea 8 procesada..
+I, [2013-11-25T20:06:44.920783 #29869]  INFO -- : Linea 9 procesada..
+I, [2013-11-25T20:06:48.477755 #29869]  INFO -- : Linea 10 procesada..
+I, [2013-11-25T20:06:52.097013 #29869]  INFO -- : Linea 11 procesada..
+I, [2013-11-25T20:06:54.629371 #29869]  INFO -- : Se ha finalizado el proceso en segundo plano..
