@@ -1,191 +1,396 @@
-I, [2013-11-25T20:41:14.348063 #30518]  INFO -- : Iniciando proceso en segundo plano..
-I, [2013-11-25T20:41:14.348313 #30518]  INFO -- : Borrando archivo de resultados previo..
-I, [2013-11-25T20:41:14.349039 #30518]  INFO -- : Procesando linea 1..
-I, [2013-11-25T20:41:14.349121 #30518]  INFO -- : Linea 2 procesada..
-I, [2013-11-25T20:41:14.349169 #30518]  INFO -- : Procesando linea 2..
-I, [2013-11-25T20:41:14.776496 #30518]  INFO -- : Linea 3 procesada..
-I, [2013-11-25T20:41:14.776616 #30518]  INFO -- : Procesando linea 3..
-I, [2013-11-25T20:41:15.198697 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:15.198822 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:15.198881 #30518]  INFO -- : Linea 4 procesada..
-I, [2013-11-25T20:41:15.198940 #30518]  INFO -- : Procesando linea 4..
-I, [2013-11-25T20:41:15.617978 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:15.618088 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:15.618128 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:15.618162 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
-I, [2013-11-25T20:41:15.618192 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:15.618224 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:15.618256 #30518]  INFO -- : Linea 5 procesada..
-I, [2013-11-25T20:41:15.618288 #30518]  INFO -- : Procesando linea 5..
-I, [2013-11-25T20:41:16.114862 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.115017 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.115095 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.115159 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
-I, [2013-11-25T20:41:16.115222 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.115278 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.115330 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.115383 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.115429 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.115475 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.115523 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.115574 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.115629 #30518]  INFO -- : Linea 6 procesada..
-I, [2013-11-25T20:41:16.115683 #30518]  INFO -- : Procesando linea 6..
-I, [2013-11-25T20:41:16.616096 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.616289 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.616359 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.616432 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
-I, [2013-11-25T20:41:16.616479 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.616523 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.616564 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.616606 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.616644 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.616687 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.616724 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.616800 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.616848 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.616891 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.616929 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.616969 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.617005 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.617045 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.617083 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:16.617123 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:16.617168 #30518]  INFO -- : Linea 7 procesada..
-I, [2013-11-25T20:41:16.617212 #30518]  INFO -- : Procesando linea 7..
-I, [2013-11-25T20:41:17.065178 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065307 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065366 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065399 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
-I, [2013-11-25T20:41:17.065428 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065458 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065487 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065517 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065543 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065573 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065599 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065628 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065655 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065683 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065709 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065737 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065763 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065790 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065814 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065842 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065868 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065897 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065922 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.065951 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.065977 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.066005 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.066039 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.066090 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.066148 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.066194 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.066244 #30518]  INFO -- : Linea 8 procesada..
-I, [2013-11-25T20:41:17.066305 #30518]  INFO -- : Procesando linea 8..
-I, [2013-11-25T20:41:17.779935 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780058 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780117 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780165 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
-I, [2013-11-25T20:41:17.780207 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780249 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780290 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780331 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780374 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780416 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780453 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780493 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780544 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780571 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780597 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780630 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780655 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780684 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780709 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780737 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780764 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780828 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780864 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780904 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.780940 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.780979 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.781016 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.781061 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.781097 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.781137 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.781175 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.781216 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.781252 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.781297 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.781334 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.781373 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.781409 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.781448 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.781484 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.781558 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.781608 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:17.781649 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:17.781694 #30518]  INFO -- : Linea 9 procesada..
-I, [2013-11-25T20:41:17.781738 #30518]  INFO -- : Procesando linea 9..
-I, [2013-11-25T20:41:18.497847 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.497940 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.497979 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498016 #30518]  INFO -- : {"status"=>"NOT_FOUND"}
-I, [2013-11-25T20:41:18.498045 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498075 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498103 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498132 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498158 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498190 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498216 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498245 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498271 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498299 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498325 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498356 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498383 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498411 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498437 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498464 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498491 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498523 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498549 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498577 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498602 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498629 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498654 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498684 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498714 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498743 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498769 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498796 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498821 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498849 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498877 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498905 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.498929 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.498981 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499011 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.499039 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499068 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.499096 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499123 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.499151 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499176 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.499203 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499228 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.499259 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499285 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.499313 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499339 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.499367 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499391 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.499423 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499448 #30518]  INFO -- : Ha ocurrido un error en la consulta puntual. El resultado es el siguiente: 
-I, [2013-11-25T20:41:18.499476 #30518]  INFO -- : {"status"=>"ZERO_RESULTS"}
-I, [2013-11-25T20:41:18.499505 #30518]  INFO -- : Linea 10 procesada..
-I, [2013-11-25T20:41:18.499536 #30518]  INFO -- : Procesando linea 10..
-I, [2013-11-25T20:41:19.028323 #30518]  INFO -- : Ha ocurrido un error en la consulta:
-I, [2013-11-25T20:41:19.028454 #30518]  INFO -- : {"destination_addresses"=>[], "error_message"=>"You have exceeded your rate-limit for this API.", "origin_addresses"=>[], "rows"=>[], "status"=>"OVER_QUERY_LIMIT"}
+I, [2013-12-02T19:56:49.604522 #39591]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T19:56:49.604730 #39591]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T19:56:49.606763 #39591]  INFO -- : Procesando linea 1..
+I, [2013-12-02T19:56:49.606867 #39591]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T19:56:50.259765 #39591]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T19:56:50.259888 #39591]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T19:56:50.260016 #39591]  INFO -- : Procesando linea 2..
+I, [2013-12-02T19:56:51.148759 #39591]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T19:56:51.149150 #39591]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T19:56:51.149217 #39591]  INFO -- : Procesando linea 3..
+I, [2013-12-02T19:56:52.057526 #39591]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T19:56:52.750614 #39591]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T19:56:52.750750 #39591]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T19:56:52.750831 #39591]  INFO -- : Procesando linea 4..
+I, [2013-12-02T19:56:53.610926 #39591]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T19:56:54.355376 #39591]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T19:56:55.077026 #39591]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T19:56:55.077167 #39591]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T19:56:55.077266 #39591]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T19:56:55.077341 #39591]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T19:56:55.077451 #39591]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T19:56:55.077569 #39591]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T19:56:55.077651 #39591]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T19:56:55.077764 #39591]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T19:56:55.077832 #39591]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T19:56:55.077951 #39591]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T19:59:06.490531 #39620]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T19:59:06.490900 #39620]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T19:59:06.494358 #39620]  INFO -- : Procesando linea 1..
+I, [2013-12-02T19:59:06.494435 #39620]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T19:59:07.114589 #39620]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T19:59:07.114724 #39620]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T19:59:07.114809 #39620]  INFO -- : Procesando linea 2..
+I, [2013-12-02T19:59:08.080897 #39620]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T19:59:08.081064 #39620]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T19:59:08.081144 #39620]  INFO -- : Procesando linea 3..
+I, [2013-12-02T19:59:08.982526 #39620]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T19:59:09.848430 #39620]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T19:59:09.848583 #39620]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T19:59:09.848668 #39620]  INFO -- : Procesando linea 4..
+I, [2013-12-02T19:59:10.855899 #39620]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T19:59:11.789176 #39620]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T19:59:12.533564 #39620]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T19:59:12.533721 #39620]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T19:59:12.533803 #39620]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T19:59:12.533865 #39620]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T19:59:12.533955 #39620]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T19:59:12.534023 #39620]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T19:59:12.534118 #39620]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T19:59:12.534190 #39620]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T19:59:12.534241 #39620]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T19:59:12.534330 #39620]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T19:59:12.534398 #39620]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:00:30.439689 #39643]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:00:30.440037 #39643]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:00:30.442912 #39643]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:00:30.443016 #39643]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:00:31.059589 #39643]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:00:31.059699 #39643]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:00:31.059775 #39643]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:00:32.271886 #39643]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:00:32.272022 #39643]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:00:32.272121 #39643]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:00:33.226300 #39643]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:00:33.953412 #39643]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:00:33.953557 #39643]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:00:33.953638 #39643]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:00:34.837729 #39643]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:00:35.585251 #39643]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:00:36.279010 #39643]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:00:36.279144 #39643]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:00:36.279237 #39643]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:00:36.279309 #39643]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:00:36.279421 #39643]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:00:36.279521 #39643]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:00:36.279593 #39643]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:00:36.279706 #39643]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:00:36.279785 #39643]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:00:36.279921 #39643]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:00:36.280037 #39643]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:01:21.538394 #39657]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:01:21.538488 #39657]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:01:21.539132 #39657]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:01:21.539194 #39657]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:01:22.273809 #39657]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:01:22.274018 #39657]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:01:22.275457 #39657]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:01:23.138366 #39657]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:01:23.138520 #39657]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:01:23.138595 #39657]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:01:24.007905 #39657]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:01:24.783776 #39657]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:01:24.783945 #39657]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:01:24.784035 #39657]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:01:25.709517 #39657]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:01:26.537874 #39657]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:01:27.292243 #39657]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:01:27.292430 #39657]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:01:27.292518 #39657]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:01:27.292579 #39657]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:01:27.292663 #39657]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:01:27.292734 #39657]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:01:27.292787 #39657]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:01:27.292866 #39657]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:01:27.292920 #39657]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:01:27.293015 #39657]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:01:27.293104 #39657]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:03:04.687858 #39685]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:03:04.687970 #39685]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:03:04.691695 #39685]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:03:04.691950 #39685]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:03:05.415588 #39685]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:03:05.415723 #39685]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:03:05.415819 #39685]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:03:06.326607 #39685]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:03:06.326730 #39685]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:03:06.326789 #39685]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:03:10.618188 #39685]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:03:11.631936 #39685]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:03:11.632070 #39685]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:03:11.632152 #39685]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:03:12.656110 #39685]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:03:13.370989 #39685]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:03:14.108926 #39685]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:03:14.109096 #39685]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:03:14.109192 #39685]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:03:14.109415 #39685]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:03:14.109599 #39685]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:03:14.109729 #39685]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:03:14.110021 #39685]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:03:14.110141 #39685]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:03:14.110217 #39685]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:03:14.110325 #39685]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:03:14.110431 #39685]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:05:28.334574 #39724]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:05:28.334993 #39724]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:05:28.335681 #39724]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:05:28.335755 #39724]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:05:29.120090 #39724]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:05:29.120233 #39724]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:05:29.120317 #39724]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:05:30.023877 #39724]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:05:30.024035 #39724]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:05:30.024205 #39724]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:05:30.946616 #39724]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:05:32.733225 #39724]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:05:32.733423 #39724]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:05:32.733532 #39724]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:05:33.697886 #39724]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:05:34.419446 #39724]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:05:35.147956 #39724]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:05:35.148111 #39724]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:05:35.148196 #39724]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:05:35.148253 #39724]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:05:35.148354 #39724]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:05:35.148438 #39724]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:05:35.148478 #39724]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:05:35.148524 #39724]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:05:35.148553 #39724]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:05:35.148683 #39724]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:05:35.148766 #39724]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:06:32.049157 #39739]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:06:32.049255 #39739]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:06:32.049605 #39739]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:06:32.049657 #39739]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:06:32.713359 #39739]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:06:32.713545 #39739]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:06:32.713650 #39739]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:06:33.663423 #39739]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:06:33.663565 #39739]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:06:33.663786 #39739]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:06:34.658208 #39739]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:06:35.583097 #39739]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:06:35.583216 #39739]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:06:35.583305 #39739]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:06:36.508403 #39739]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:06:37.364756 #39739]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:06:38.108361 #39739]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:06:38.108495 #39739]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:06:38.108574 #39739]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:06:38.108692 #39739]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:06:38.108828 #39739]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:06:38.108936 #39739]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:06:38.108999 #39739]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:06:38.109299 #39739]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:06:38.109368 #39739]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:06:38.109622 #39739]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:06:38.109778 #39739]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:07:44.639492 #39758]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:07:44.639591 #39758]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:07:44.640546 #39758]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:07:44.640635 #39758]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:07:45.261170 #39758]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:07:45.261313 #39758]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:07:45.261528 #39758]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:07:46.244820 #39758]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:07:46.244929 #39758]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:07:46.244996 #39758]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:07:47.734381 #39758]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:07:48.478871 #39758]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:07:48.479053 #39758]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:07:48.479215 #39758]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:07:50.457401 #39758]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:07:51.173740 #39758]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:07:52.131207 #39758]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:07:52.131344 #39758]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:07:52.131436 #39758]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:07:52.131509 #39758]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:07:52.131628 #39758]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:07:52.131735 #39758]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:07:52.131807 #39758]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:07:52.132007 #39758]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:07:52.132120 #39758]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:07:52.132248 #39758]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:07:52.132345 #39758]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:08:26.886074 #39773]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:08:26.886210 #39773]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:08:26.886727 #39773]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:08:26.886827 #39773]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:08:27.517005 #39773]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:08:27.517156 #39773]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:08:27.517241 #39773]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:08:28.435615 #39773]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:08:28.435731 #39773]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:08:28.435919 #39773]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:08:29.312033 #39773]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:08:30.137140 #39773]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:08:30.137495 #39773]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:08:30.137584 #39773]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:08:31.047488 #39773]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:08:35.677654 #39773]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:08:36.767482 #39773]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:08:36.767599 #39773]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:08:36.767680 #39773]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:08:36.767742 #39773]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:08:36.767842 #39773]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:08:36.767931 #39773]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:08:36.767997 #39773]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:08:36.768144 #39773]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:08:36.768564 #39773]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:08:36.768704 #39773]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:08:36.768763 #39773]  INFO -- : Creando archivo de costos en salida.txt..
+I, [2013-12-02T20:09:33.852871 #39787]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:09:33.853332 #39787]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:09:33.854055 #39787]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:09:33.854207 #39787]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:09:34.490327 #39787]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:09:34.490462 #39787]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:09:34.490564 #39787]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:09:35.401482 #39787]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:09:35.401634 #39787]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:09:35.401735 #39787]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:09:36.605551 #39787]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:09:37.351350 #39787]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:09:37.351505 #39787]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:09:37.351601 #39787]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:09:38.233592 #39787]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:09:39.187151 #39787]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:09:40.068629 #39787]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:09:40.068752 #39787]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:09:40.068835 #39787]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:09:40.068897 #39787]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:09:40.068989 #39787]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:09:40.069076 #39787]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:09:40.069140 #39787]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:09:40.069288 #39787]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:09:40.069364 #39787]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:09:40.069485 #39787]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:09:40.069612 #39787]  INFO -- : Creando archivo de costos en ~/salida.txt..
+I, [2013-12-02T20:12:19.264076 #39826]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:12:19.271634 #39826]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:12:19.273821 #39826]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:12:19.273969 #39826]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:12:19.913809 #39826]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:12:19.913968 #39826]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:12:19.914064 #39826]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:12:20.998008 #39826]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:12:20.998156 #39826]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:12:20.998229 #39826]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:12:25.053639 #39826]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:12:25.778410 #39826]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:12:25.778544 #39826]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:12:25.778643 #39826]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:12:26.734502 #39826]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:12:30.592053 #39826]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:12:32.662948 #39826]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:12:32.663074 #39826]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:12:32.663165 #39826]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:12:32.663239 #39826]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:12:32.663331 #39826]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:12:32.663426 #39826]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:12:32.663486 #39826]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:12:32.663601 #39826]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:12:32.663666 #39826]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:12:32.663772 #39826]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:12:32.663854 #39826]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:13:40.591943 #39859]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:13:40.592055 #39859]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:13:40.592796 #39859]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:13:40.592882 #39859]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:13:41.189677 #39859]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:13:41.189794 #39859]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:13:41.189971 #39859]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:13:42.067386 #39859]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:13:42.067613 #39859]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:13:42.067690 #39859]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:13:42.918203 #39859]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:13:43.771839 #39859]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:13:43.771979 #39859]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:13:43.772164 #39859]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:13:44.723102 #39859]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:13:45.462830 #39859]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:13:46.371448 #39859]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:13:46.371561 #39859]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:13:46.371617 #39859]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:13:46.371661 #39859]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:13:46.371725 #39859]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:13:46.371784 #39859]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:13:46.372107 #39859]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:13:46.372270 #39859]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:13:46.372347 #39859]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:13:46.372443 #39859]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:13:46.372709 #39859]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:13:46.382836 #39859]  INFO -- : Archivo de costos creado.
+I, [2013-12-02T20:13:46.383074 #39859]  INFO -- : Se ha finalizado el proceso en segundo plano..
+I, [2013-12-02T20:13:46.383136 #39859]  INFO -- : ***********************************************
+I, [2013-12-02T20:13:46.383190 #39859]  INFO -- : ***********************************************
+I, [2013-12-02T20:13:46.383249 #39859]  INFO -- : ***********************************************
+I, [2013-12-02T20:16:09.174368 #39884]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:16:09.174445 #39884]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:16:09.175031 #39884]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:16:09.175087 #39884]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:16:09.789634 #39884]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:16:09.789804 #39884]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:16:09.789907 #39884]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:16:10.707975 #39884]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:16:10.708127 #39884]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:16:10.708310 #39884]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:16:11.597241 #39884]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:16:12.326140 #39884]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:16:12.326278 #39884]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:16:12.326361 #39884]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:16:13.235059 #39884]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:16:13.942317 #39884]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:16:14.635502 #39884]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:16:14.635663 #39884]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:16:14.635762 #39884]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:16:14.635841 #39884]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:16:14.635936 #39884]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:16:14.636041 #39884]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:16:14.636150 #39884]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:16:14.636245 #39884]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:16:14.636311 #39884]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:16:14.636420 #39884]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:16:14.636526 #39884]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:16:14.653431 #39884]  INFO -- : Archivo de costos creado.
+I, [2013-12-02T20:16:14.653695 #39884]  INFO -- : Se ha finalizado el proceso en segundo plano..
+I, [2013-12-02T20:16:14.653803 #39884]  INFO -- : ***********************************************
+I, [2013-12-02T20:16:14.653854 #39884]  INFO -- : ***********************************************
+I, [2013-12-02T20:16:14.653898 #39884]  INFO -- : ***********************************************
+I, [2013-12-02T20:17:13.160340 #39909]  INFO -- : Iniciando proceso en segundo plano..
+I, [2013-12-02T20:17:13.160455 #39909]  INFO -- : Borrando archivo de resultados previo..
+I, [2013-12-02T20:17:13.160976 #39909]  INFO -- : Procesando linea 1..
+I, [2013-12-02T20:17:13.161042 #39909]  INFO -- : http://api.taxifarefinder.com/entity?key=d6apr3UDROuv&location=39.9095403611111,116.416182055556
+I, [2013-12-02T20:17:13.893239 #39909]  INFO -- : {"status"=>"OK", "name"=>"Beijing", "full_name"=>"Beijing, China", "handle"=>"Beijing-China", "locale"=>"zh_CN", "distance"=>954}
+I, [2013-12-02T20:17:13.893379 #39909]  INFO -- : Linea 2 procesada..
+I, [2013-12-02T20:17:13.893466 #39909]  INFO -- : Procesando linea 2..
+I, [2013-12-02T20:17:14.835032 #39909]  INFO -- : {"status"=>"OK", "total_fare"=>93.23, "initial_fare"=>13, "metered_fare"=>79.23, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29867, "duration"=>2879}
+I, [2013-12-02T20:17:14.835167 #39909]  INFO -- : Linea 3 procesada..
+I, [2013-12-02T20:17:14.835247 #39909]  INFO -- : Procesando linea 3..
+I, [2013-12-02T20:17:15.708995 #39909]  INFO -- : {"status"=>"OK", "total_fare"=>95.74, "initial_fare"=>13, "metered_fare"=>81.74, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>30683, "duration"=>2995}
+I, [2013-12-02T20:17:16.440727 #39909]  INFO -- : {"status"=>"OK", "total_fare"=>14.59, "initial_fare"=>13, "metered_fare"=>0.59, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>816, "duration"=>116}
+I, [2013-12-02T20:17:16.440850 #39909]  INFO -- : Linea 4 procesada..
+I, [2013-12-02T20:17:16.440943 #39909]  INFO -- : Procesando linea 4..
+I, [2013-12-02T20:17:17.427603 #39909]  INFO -- : {"status"=>"OK", "total_fare"=>93.58, "initial_fare"=>13, "metered_fare"=>79.58, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>29973, "duration"=>2902}
+I, [2013-12-02T20:17:19.210435 #39909]  INFO -- : {"status"=>"OK", "total_fare"=>14.09, "initial_fare"=>13, "metered_fare"=>0.09, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>106, "duration"=>17}
+I, [2013-12-02T20:17:21.019796 #39909]  INFO -- : {"status"=>"OK", "total_fare"=>14.71, "initial_fare"=>13, "metered_fare"=>0.71, "tip_amount"=>0, "tip_percentage"=>0, "locale"=>"zh_CN", "rate_area"=>"Beijing, China", "flat_rates"=>[], "extra_charges"=>[{"charge"=>1, "description"=>"Fuel Surcharge"}], "distance"=>922, "duration"=>139}
+I, [2013-12-02T20:17:21.020027 #39909]  INFO -- : Linea 5 procesada..
+I, [2013-12-02T20:17:21.020243 #39909]  INFO -- : Calculando la matriz de costos..
+I, [2013-12-02T20:17:21.020331 #39909]  INFO -- : Se tienen en cuenta 4 marcadores.
+I, [2013-12-02T20:17:21.020448 #39909]  INFO -- : Creando archivo de bandera en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/bandera.txt..
+I, [2013-12-02T20:17:21.032223 #39909]  INFO -- : Archivo de bandera creado.
+I, [2013-12-02T20:17:21.032361 #39909]  INFO -- : El arreglo de distancias tiene el siguiente aspecto:
+I, [2013-12-02T20:17:21.032444 #39909]  INFO -- : ["39.9095403611111,116.416182055556", "39.9649786944444,116.125769277778", "39.9721973611111,116.126084722222", "39.9655203888889,116.126680666667"]
+I, [2013-12-02T20:17:21.032503 #39909]  INFO -- : El arreglo de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:17:21.032604 #39909]  INFO -- : [[], [79.23], [81.74, 0.59], [79.58, 0.09, 0.71]]
+I, [2013-12-02T20:17:21.032661 #39909]  INFO -- : La matriz de costos tiene el siguiente aspecto:
+I, [2013-12-02T20:17:21.032775 #39909]  INFO -- : [[0, 79.23, 81.74, 79.58], [79.23, 0, 0.59, 0.09], [81.74, 0.59, 0, 0.71], [79.58, 0.09, 0.71, 0]]
+I, [2013-12-02T20:17:21.032830 #39909]  INFO -- : La bandera es:
+I, [2013-12-02T20:17:21.032883 #39909]  INFO -- : 13
+I, [2013-12-02T20:17:21.032953 #39909]  INFO -- : Creando archivo de costos en /Users/gabrielfagundez/ProyectosPersonales/distance_transformator/salida.txt..
+I, [2013-12-02T20:17:21.039437 #39909]  INFO -- : Archivo de costos creado.
+I, [2013-12-02T20:17:21.039540 #39909]  INFO -- : Se ha finalizado el proceso en segundo plano..
+I, [2013-12-02T20:17:21.039655 #39909]  INFO -- : ***********************************************
+I, [2013-12-02T20:17:21.039713 #39909]  INFO -- : ***********************************************
+I, [2013-12-02T20:17:21.039759 #39909]  INFO -- : ***********************************************

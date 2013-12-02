@@ -1,6 +1,16 @@
-== Introducción
+El uso de este ejecutable es simple:
 
-Esta aplicación web, transforma un archivo de latitudes y longitudes, en un archivo matriz de distancias tomado de la API
-de Google. Su objetivo es brindar información importante para casos de prueba de grandes dimensiones para el Algoritmo
-Evolutivo que se corre en la web MePaseaste.UY, próximamente activa.
+- En una consola, ejecutar el comando:
+sidekiq
 
+- En otra consola, ejecutar el comando:
+rails s -p :numero_de_puerto
+Por defecto sera 3000.
+
+- En un browser, ir a localhost:numero_de_puerto
+
+- Esperar a que finalice la ejecucion. Para ello, es posible ver el log en log/distances_log.txt.
+
+OBSERVACIONES
+- Ubicar el archivo de entrada llamado entrada.txt en el root del proyecto. Debe contener lineas con "lat,lng", sin espacios al final.
+- Esperar la salida llamada salida.txt en el root del proyecto.
