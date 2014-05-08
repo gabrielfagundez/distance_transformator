@@ -13,7 +13,8 @@ class DistanceWorker
   ENTRADA_TXT = 'entrada.txt'
 
   # Este es el archivo de salida
-  SALIDA_TXT  = 'salida.txt'
+  SALIDA_TXT  = 'costos.txt'
+  SALIDA_TXT_DURACION  = 'duracion.txt'
 
   # Este es el archivo de bandera
   BANDERA_TXT  = 'bandera.txt'
@@ -40,6 +41,7 @@ class DistanceWorker
     end
 
     @costos   = []
+    @duracion = []
     @destinos = []
     @bandera  = nil
     @matriz_costos = nil
@@ -59,6 +61,7 @@ class DistanceWorker
     end
 
     armar_matriz_costos
+    armar_matriz_duracion
     crear_archivo_de_bandera
 
     # Imprimimos el final
@@ -104,6 +107,7 @@ class DistanceWorker
     else
 
       costos = []
+      duracion = []
 
       @destinos.each do |destino|
 
@@ -120,10 +124,12 @@ class DistanceWorker
         @dis_log.info json_response.inspect
 
         costos.push(json_response['metered_fare'])
+        duracion.push(json_response['duration'])
         @bandera = json_response['initial_fare']
       end
 
       @costos.push(costos)
+      @duracion.push(duracion)
       @destinos.push(string_origen)
     end
   end
@@ -154,6 +160,32 @@ class DistanceWorker
     end
   end
 
+  def armar_matriz_duracion
+
+    cantidad_marcadores = @duracion.size
+
+    @dis_log.info 'Calculando la matriz de duracion..'
+    @dis_log.info 'Se tienen en cuenta ' + cantidad_marcadores.to_s + ' marcadores.'
+
+    # Matriz de costos
+    @matriz_duracion  = Array.new(cantidad_marcadores) { Array.new(cantidad_marcadores) }
+
+    # Rellenamos la matriz de costos
+    for i in 0..(cantidad_marcadores - 1) do
+      for j in 0..(cantidad_marcadores - 1) do
+        if i == j
+          @matriz_duracion[i][j] = 0
+        else
+          if i>j
+            @matriz_duracion[i][j] = @duracion[i][j]
+          else
+            @matriz_duracion[i][j] = @duracion[j][i]
+          end
+        end
+      end
+    end
+  end
+
   def crear_archivo_de_costos
     @dis_log.info 'Creando archivo de costos en ' + Rails.root.to_s + '/' + SALIDA_TXT + '..'
 
@@ -165,6 +197,26 @@ class DistanceWorker
       for i in 0..(cantidad_marcadores - 1) do
         for j in 0..(cantidad_marcadores - 1) do
           file.write @matriz_costos[i][j]
+          file.write ' '
+        end
+        file.write "\n"
+      end
+    end
+
+    @dis_log.info 'Archivo de costos creado.'
+  end
+
+  def crear_archivo_de_duracion
+    @dis_log.info 'Creando archivo de costos en ' + Rails.root.to_s + '/' + SALIDA_TXT_DURACION + '..'
+
+    cantidad_marcadores = @duracion.size
+
+    `touch #{Rails.root.to_s + '/' + SALIDA_TXT_DURACION}`
+
+    File.open(Rails.root.to_s + '/' + SALIDA_TXT_DURACION, 'w') do |file|
+      for i in 0..(cantidad_marcadores - 1) do
+        for j in 0..(cantidad_marcadores - 1) do
+          file.write @matriz_duracion[i][j]
           file.write ' '
         end
         file.write "\n"
