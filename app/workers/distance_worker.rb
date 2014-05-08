@@ -78,6 +78,7 @@ class DistanceWorker
     @dis_log.info @bandera.inspect
 
     crear_archivo_de_costos
+    crear_archivo_de_duracion
 
     @dis_log.info 'Se ha finalizado el proceso en segundo plano..'
 
@@ -104,6 +105,7 @@ class DistanceWorker
       @entity = json_response['handle']
       @destinos.push(string_origen)
       @costos.push([])
+      @duracion.push([])
     else
 
       costos = []
@@ -207,7 +209,7 @@ class DistanceWorker
   end
 
   def crear_archivo_de_duracion
-    @dis_log.info 'Creando archivo de costos en ' + Rails.root.to_s + '/' + SALIDA_TXT_DURACION + '..'
+    @dis_log.info 'Creando archivo de duracion en ' + Rails.root.to_s + '/' + SALIDA_TXT_DURACION + '..'
 
     cantidad_marcadores = @duracion.size
 
@@ -223,7 +225,7 @@ class DistanceWorker
       end
     end
 
-    @dis_log.info 'Archivo de costos creado.'
+    @dis_log.info 'Archivo de duracion creado.'
   end
 
   def crear_archivo_de_bandera
