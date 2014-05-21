@@ -196,6 +196,12 @@ class DistanceWorker
     `touch #{Rails.root.to_s + '/' + SALIDA_TXT}`
 
     File.open(Rails.root.to_s + '/' + SALIDA_TXT, 'w') do |file|
+      file.write (2*(cantidad_marcadores - 1) - 1).to_s
+      file.write "\n"
+      file.write @bandera.to_s
+      file.write "\n"
+      file.write '4'
+      file.write "\n"
       for i in 0..(cantidad_marcadores - 1) do
         for j in 0..(cantidad_marcadores - 1) do
           file.write @matriz_costos[i][j]
