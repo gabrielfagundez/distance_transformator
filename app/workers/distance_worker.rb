@@ -97,6 +97,9 @@ class DistanceWorker
 
       @dis_log.info url
 
+      # Agrego un sleep para no saturar la API
+      sleep(1.seconds)
+
       http_response = HTTParty.get(url)
       json_response = JSON[http_response.body]
 
